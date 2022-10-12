@@ -1,0 +1,10 @@
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\bin\Debug\Base64Converter.exe.config
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\bin\Debug\Base64Converter.exe
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\bin\Debug\Base64Converter.pdb
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\obj\Debug\Base64Converter.csproj.AssemblyReference.cache
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\obj\Debug\Base64Converter.Properties.Resources.resources
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\obj\Debug\Base64Converter.csproj.GenerateResource.cache
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\obj\Debug\Base64Converter.csproj.CoreCompileInputs.cache
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\obj\Debug\Base64Converter.exe
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\obj\Debug\Base64Converter.pdb
+C:\Users\VirusTest\source\repos\Base64Converter\Base64Converter\obj\Debug\Base64Converter.Base64Conv.resources
